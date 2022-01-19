@@ -1,0 +1,13 @@
+{
+  "name": "rodcrud",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senzafine/rodcrud.git"
+  },
+  "author": "Yahzee Skellington",
+  "homepage": "https://github.com/senzafine/rodcrud#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
